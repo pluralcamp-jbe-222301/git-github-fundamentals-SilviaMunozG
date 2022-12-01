@@ -15,11 +15,15 @@ Deberá descargar e instalar la aplicación ``git-it-electron``:
 
 > Por favor, añada una captura de pantalla a este repo que muestre los retos finalizados.
 
+Hecho el Lunes, no dispongo de captura de pantalla, finalizado sin problemas. 
+
 ## test w3schools
 
 Una vez que haya terminado el git-it lab, continúe con el cuestionario que encontrará en [w3schools git quiz](https://www.w3schools.com/git/git_quiz.asp)
 
 > Por favor, añada una captura de pantalla a este repositorio que muestre sus resultados después de terminar el cuestionario.
+
+![test results](https://mail.google.com/mail/u/0?ui=2&ik=aef610c196&attid=0.1&permmsgid=msg-a:r6168008323785197672&th=184ccbf0a432639a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9hIoqSJOOmzZvYXNK-zJC81HnntQbqQE9wb6SiaLz_WjuBG_lf8vcCt5HIa4Ylr60Lq1PpXGTwVzkR1DuRKmb0IqTBs1gwouG8p_GEO1f9Gl5Zim3YQeohuoc&disp=emb&realattid=ii_lb4suhvu0)
 
 ## Para principiantes 
 
