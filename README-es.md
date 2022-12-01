@@ -23,7 +23,7 @@ Una vez que haya terminado el git-it lab, continúe con el cuestionario que enco
 
 > Por favor, añada una captura de pantalla a este repositorio que muestre sus resultados después de terminar el cuestionario.
 
-![test results](jbe/git-github-fundamentals-SilviaMunozG/results.png)
+![test results](results.png)
 
 ## Para principiantes 
 
